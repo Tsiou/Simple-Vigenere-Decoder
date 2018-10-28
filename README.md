@@ -1,5 +1,5 @@
 # Simple-Vigenere-Decoder
-##Simple Vigenere Decoder for Networks &amp; Internet Security Course, University of Macedonia, Greece.
+## Simple Vigenere Decoder for Networks &amp; Internet Security Course, University of Macedonia, Greece.
 
 The goal of this program is to output the correct key, given part of a cleartext and the equivalent ciphertext, and the length of the key. If the values are different or if the length of the key is smaller than the given text, the key cannot be found (not actually checked in the code).
 
